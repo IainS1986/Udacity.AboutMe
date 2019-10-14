@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Iain Stanford</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ullamcorper ultricies mauris id porta. Sed dignissim turpis placerat metus dapibus, gravida dignissim lorem viverra. Etiam pretium augue in tempus tincidunt. Pellentesque vel metus ac quam volutpat rutrum sed sagittis diam. Quisque vitae odio ipsum. Quisque mollis quam augue, vitae mollis justo interdum ac. Morbi vulputate fringilla dolor ac aliquam. Donec venenatis posuere erat, non blandit lectus placerat ut. Phasellus bibendum, augue vel venenatis ultricies, mi quam commodo lacus, maximus congue nulla lorem vitae quam. Nunc eleifend nisl non est tempus, in porta turpis vulputate. Maecenas at urna mauris. Nunc eget tortor mattis augue congue semper vel in nisl. Quisque vestibulum eleifend cursus.
+\n\n
+\n\nVestibulum a arcu in erat consequat interdum quis non urna. Ut suscipit dui rhoncus, imperdiet leo id, venenatis tellus. Phasellus vitae volutpat urna, nec sollicitudin enim. Phasellus vel orci et magna posuere ultrices quis lobortis nulla. Donec faucibus odio vitae lorem porta, nec ullamcorper dui cursus. Cras efficitur vestibulum ligula, vitae ultrices leo tempor eu. Nam efficitur at sapien sit amet porta. Mauris consequat laoreet tempor. Aenean congue molestie nibh ut venenatis.</string>
 </resources>
